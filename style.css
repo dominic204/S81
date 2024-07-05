@@ -1,0 +1,27 @@
+.hero {
+	  background: url(./img/bg.jpg) no-repeat center center fixed; 
+ 	 -webkit-background-size: cover;
+ 	 -moz-background-size: cover;
+  	 -o-background-size: cover;
+  	 background-size: cover;
+  	 height: 65vh;
+
+}
+
+.hero h1 {
+	font-size: 70px;
+}
+
+#featured img {
+	height: 130px;
+	width: 200px;
+}
+
+#about {
+	background-color:  #e1d2f2;
+}
+
+#about img {
+	height: 35px;
+	width: 35px;
+}
